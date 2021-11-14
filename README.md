@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harishrvt
 - 👀 I’m interested in AWS, Data Analytics - Data Engineering, ML & AI, Business Intelligence
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning Airflow & DBT
 - 💞️ I’m looking to collaborate on AWS / Python / Data projects
 - 📫 How to reach me harish.suresh01@gmail.com
 
