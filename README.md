@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harishrvt
 - 👀 I’m interested in AWS, Data Analytics - Data Engineering, ML & AI, Business Intelligence
-- 🌱 I’m currently learning Airflow & DBT
 - 💞️ I’m looking to collaborate on AWS / Python / Data projects
 
 <!---
